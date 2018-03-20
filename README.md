@@ -1,5 +1,5 @@
-# ccat
-comprehensive cdr analysis tool
+# CCAT
+Comprehensive CDR Analysis Tool
 
 Steps to use the software:
 
@@ -11,3 +11,10 @@ Steps to use the software:
 6. Again use the CDR Converter to convert it to a KML file.
 7. Install the google earth.
 8. Open the KML file on Google earth and get to know the path of your target.
+
+# Details with pictures
+
+https://sharad1126.github.io/projects/cdr.html
+
+# Author
+Sharad Agarwal
