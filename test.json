@@ -1,16 +1,16 @@
 {
  "homeMobileCountryCode": 404,
- "homeMobileNetworkCode": 10,
+ "homeMobileNetworkCode": 40,
  "radioType": "gsm",
- "carrier": "Airtel",
+ "carrier": "airtel",
  "cellTowers": [
   {
-   "cellId": 6482,            
-   "locationAreaCode":  150,     
+   "cellId": 23242,            
+   "locationAreaCode":  315,    
    "mobileCountryCode": 404,      
-   "mobileNetworkCode": 10,      
+   "mobileNetworkCode": 40,      
    "age": 0,
-   "signalStrength": -95
+   "signalStrength": -63
   }
  ],
  "wifiAccessPoints": [
