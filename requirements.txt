@@ -1,1 +1,1 @@
-openpyxl==3.0.3
+openpyxl==2.6.4
